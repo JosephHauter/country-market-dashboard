@@ -35,7 +35,7 @@ This will start the Dash server and you can view the dashboard by opening a web 
 
 ## Screenshots
 
-!Dashboard
+![Dashboard](dashboard.png)
 
 We hope you find this project useful and we welcome any feedback or contributions!
 ```
