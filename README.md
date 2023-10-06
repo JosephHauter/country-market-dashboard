@@ -2,6 +2,10 @@
 
 This project is a data dashboard that allows you to explore different types of data for various countries. It uses data from the Quandl API and presents it in a user-friendly format using Dash and Plotly. The dashboard includes several interactive components such as dropdowns and sliders that allow you to filter the data, and it displays the data in various types of charts including line charts, bar charts, and a heatmap.
 
+## Screenshots
+
+![Dashboard](dashboard.png)
+
 ## Installation
 
 To install the necessary dependencies for this project, you can use pip:
@@ -31,9 +35,5 @@ python main.py
 ```
 
 This will start the Dash server and you can view the dashboard by opening a web browser and navigating to `http://127.0.0.1:8050`.
-
-## Screenshots
-
-![Dashboard](dashboard.png)
 
 We hope you find this project useful and we welcome any feedback or contributions!
