@@ -19,10 +19,10 @@ This will install all the necessary Python packages for this project.
 ## Configuration
 
 Before running the project, you need to add your Quandl API key. Here's how you can do it:
-
-1. Open the `config.py` file in a text editor.
-2. Replace `'your-api-key'` with your actual Quandl API key.
-3. Save and close the file.
+1. If you don't already have a key go to this site https://data.nasdaq.com/data/RATEINF-inflation-rates and get a free api key
+2. Open the `config.py` file in a text editor.
+3. Replace `'your-api-key'` with your actual Quandl API key.
+4. Save and close the file.
 
 Please note that you should never share your `config.py` file with anyone else, as it contains sensitive information.
 
